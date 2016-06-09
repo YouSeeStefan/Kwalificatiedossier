@@ -10,7 +10,7 @@ Je moet het in de read me in GitHub plaatsen dus het komt hier allemaal onder te
 Kwalificatiedossier eigenworden
 -----------------
 
-** B1-K1:  Levert een bijdrage aan het ontwikkeltraject **
+**B1-K1:  Levert een bijdrage aan het ontwikkeltraject**
 Je moet een deel van project kunnen maken.
 
 
