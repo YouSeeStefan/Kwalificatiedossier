@@ -4,14 +4,14 @@ Kwalificatiedossier
 Wat voor opdracht is dit?
 -------------------------
 
-Je moet in je eigen worden gaan uitleggen wat er allemaal word gezegt in het kwalificatiedossier.
-Je moet het in de read me in GitHub plaatsen dus het komt hier allemaal onder te staan.
+Ik moet in je eigen worden gaan uitleggen wat er allemaal word gezegt in het kwalificatiedossier.
+Ik moet het in de read me in GitHub plaatsen dus het komt hier allemaal onder te staan.
 
 Kwalificatiedossier eigenworden
 -----------------
 
 **B1-K1:  Levert een bijdrage aan het ontwikkeltraject**<br/>
-Je moet een deel van project kunnen maken.
+Je moet een deel van project kunnen maken en leveren. Je moet ook oplossingen kunnen bedenken als je een probleem tegen komt.
 
 
 **B1-K1-W1:  Stelt de opdracht vast**<br/>
@@ -57,3 +57,6 @@ Je weet op een overtuigende en begrijpelijke manier je product te presenteren.
 
 **B1-K3-W3:  Evalueert het opgeleverde product**<br/>
 Je raadpleegt betrokkenen om met hen door te nemen of het product volgens richtlijnen, afspraken en conform opdracht is opgeleverd.
+
+**B1-K1-W4: Bereidt de realisatie voor**
+Je leest ter voorbereiding alles door van het bestaande ontwerp. Je kiest zelf de software methode die je wilt doen.
