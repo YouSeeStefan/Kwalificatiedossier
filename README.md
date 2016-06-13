@@ -58,5 +58,5 @@ Je weet op een overtuigende en begrijpelijke manier je product te presenteren.
 **B1-K3-W3:  Evalueert het opgeleverde product**<br/>
 Je raadpleegt betrokkenen om met hen door te nemen of het product volgens richtlijnen, afspraken en conform opdracht is opgeleverd.
 
-**B1-K1-W4: Bereidt de realisatie voor**
-Je leest ter voorbereiding alles door van het bestaande ontwerp. Je kiest zelf de software methode die je wilt doen.
+**Keuzedeel**
+Elk profiel dat je maakt moet twee keuzendelen hebben. Een keuzendeel maakt een doorstroom makkelijker naar een vervolgstudie.
