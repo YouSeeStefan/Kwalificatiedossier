@@ -19,7 +19,7 @@ Je bent in staat om de beschikbare informatie, de eisen en behoeften van de opdr
 
 
 **B1-K1-W2:  Levert een bijdrage aan het projectplan**<br/>
-Een plan gaan maken hoe je een website of game wilt gaan maken.
+Een plan gaan maken hoe je een website wilt gaan maken die jij wilt.
 
 
 **B1-K1-W3:  Levert een bijdrage aan het ontwerp**<br/>
